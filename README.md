@@ -134,3 +134,5 @@ Example:
 python generate_lookup_table.py --num_mappings 5000 --output_file lookup_table.csv
 ```
 
+### Output Analysis
+The output file from the flow log parser shows important details about network traffic in two main parts: Tag Counts and Port/Protocol Combination Counts. The Tag Counts section tells us how often each tag appears, which helps identify popular services; a lot of untagged entries mean we might need to update the lookup table. The Port/Protocol Combination Counts section shows how many times each port and protocol is used, helping to spot key services and potential security issues; high counts for certain ports suggest we should take a closer look.
