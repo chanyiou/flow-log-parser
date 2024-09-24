@@ -1,0 +1,25 @@
+Tag Counts:
+Tag             Count
+sv_p475             8
+sv_p2133           15
+sv_p911            10
+sv_p2023           11
+sv_p981             8
+sv_p178             6
+sv_p112            10
+sv_p2244            9
+sv_p793            12
+sv_p1856           11
+
+Port/Protocol Combination Counts:
+Port   Protocol   Count
+80      tcp        8
+443     tcp        15
+22      udp        10
+443     udp        11
+22      tcp        8
+8443    tcp        6
+8080    tcp        10
+8080    udp        9
+80      udp        12
+8443    udp        11

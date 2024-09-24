@@ -1,0 +1,5 @@
+2024-09-24 09:20:47,450 - INFO - Starting the flow log parser.
+2024-09-24 09:20:47,452 - INFO - Successfully loaded lookup table from 'lookup_table.csv'. Total mappings: 56
+2024-09-24 09:20:47,452 - INFO - Successfully parsed flow log file 'flow_log.txt'.
+2024-09-24 09:20:47,453 - INFO - Output successfully written to 'output.txt'.
+2024-09-24 09:20:47,453 - INFO - Flow log parsing completed successfully.
